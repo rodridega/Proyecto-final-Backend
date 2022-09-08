@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "babel src/index.js -d dist",
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
