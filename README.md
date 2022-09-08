@@ -1,7 +1,7 @@
 # Proyecto Final - Curso Coder Backend
 
 # Como ejecutar el proyecto
-- Instalado Node.js
+- Instalar Node.js
 - Clonar mi repositorio con git clone
 - Abrir la carpeta del proyecto en una terminal y ejecutar ``` npm install ```
 - Ejecutar ``` npm run start ```
