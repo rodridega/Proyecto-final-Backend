@@ -1,0 +1,22 @@
+[
+  {
+    "name": "World of Warcraft: Dragonflight",
+    "price": 3500,
+    "urlImage": "https://i.ytimg.com/vi/gOv2gqdkrt8/maxresdefault.jpg",
+    "description": "Ultima Expasión de Wow",
+    "code": 44218,
+    "stock": 250,
+    "id": "acee182d-a2e2-4e17-aa98-1c0ebd47f15d",
+    "timeStamp": 1662573491331
+  },
+  {
+    "name": "Diablo IV",
+    "price": 1900,
+    "urlImage": "https://blz-contentstack-images.akamaized.net/v3/assets/blt9c12f249ac15c7ec/blt197bfce3b1cb7880/6286c2cccf13bb4bbe6278ad/open-graph.jpg",
+    "description": "4ta entrega de la saga Diablo",
+    "code": 45632,
+    "stock": 550,
+    "id": "aarasrs-8s6s-293s-sdda-daswqes213",
+    "timeStamp": 1662573491331
+  }
+]

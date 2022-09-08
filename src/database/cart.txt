@@ -1,0 +1,23 @@
+[
+  {
+    "id": "38f76a26-546e-4b78-9b6d-f31dfd6f8245",
+    "timestamp": 1662602496935,
+    "products": [
+      {
+        "name": "World of Warcraft: Dragonflight",
+        "price": 3500,
+        "urlImage": "https://i.ytimg.com/vi/gOv2gqdkrt8/maxresdefault.jpg",
+        "description": "Ultima Expasión de Wow",
+        "code": 44218,
+        "stock": 250,
+        "id": "acee182d-a2e2-4e17-aa98-1c0ebd47f15d",
+        "timeStamp": 1662573491331
+      }
+    ]
+  },
+  {
+    "id": "6960d268-4e35-4685-b504-5996f4a99a3b",
+    "timestamp": 1662653796765,
+    "products": []
+  }
+]
