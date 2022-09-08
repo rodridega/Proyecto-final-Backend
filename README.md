@@ -2,7 +2,7 @@
 
 # Como ejecutar el proyecto
 - Instalar Node.js
-- Clonar mi repositorio con git clone
+- Clonar mi repositorio con git clone https://github.com/rodridega/proyecto-final-backend
 - Abrir la carpeta del proyecto en una terminal y ejecutar ``` npm install ```
 - Ejecutar ``` npm run start ```
 - Utilizar ThunderClient, Postman, Insomia o tu programa de eleccion para testear los diferentes 
